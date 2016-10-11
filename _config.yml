@@ -1,6 +1,6 @@
 # Site settings
 title: Rick Wu
-description: 'Full Stack Web Developer Specializing in Rails'
+description: 'Full Stack Web Developer Specializing in Ruby on Rails'
 url: 'https://rickywo.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
